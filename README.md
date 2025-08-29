@@ -1,5 +1,7 @@
-# 📽️ Vertical Swipe Video Player (Android)
+# 📽️ Vertical Swipe Video Player (Android) - [![Star](https://img.shields.io/github/stars/epegasus/SwipeExoPlayer?style=social)](https://github.com/epegasus/SwipeExoPlayer/stargazers)
 
+> ⚡**Like what you see?** Don’t forget to **[⭐ Star this repo](https://github.com/epegasus/SwipeExoPlayer/stargazers)** — it keeps me motivated and helps others discover it! 🌟  
+ 
 A high-performance Android app that implements a **vertical swipe video player** similar to Facebook Reels using **ViewPager2, ExoPlayer (Media3), and ViewModel** for seamless playback state retention.  
 
 ## 🎯 Features
